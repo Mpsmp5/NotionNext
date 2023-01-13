@@ -1,7 +1,7 @@
 const CONFIG_NEXT = {
 
   HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_Strings: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_Strings: ['Hi，我是珂弥栗', '欢迎来到我的博客🎉'], // 首页大图标语文字
 
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部、屏幕顶部自动折叠，不固定
 
@@ -22,7 +22,7 @@ const CONFIG_NEXT = {
   MENU_TAG: true, // 显示标签
   MENU_ARCHIVE: true, // 显示归档
   MENU_ABOUT: false, // 显示关于
-  MENU_SEARCH: true, // 显示搜索
+  MENU_SEARCH: false, // 显示搜索
 
   WIDGET_TO_TOP: true, // 是否显示回顶
   WIDGET_TO_BOTTOM: false, // 显示回底
