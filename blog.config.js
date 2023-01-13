@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '珂弥栗', // 作者
   BIO: 'Wellcome to my site.', // 作者简介
-  LINK: 'https://kemillia.pages.dev', // 网站地址
+  LINK: '', // 网站地址
   KEYWORDS: '生活, 娱乐', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '000d1c4e517b486f850a7e1e9fbb6932', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
